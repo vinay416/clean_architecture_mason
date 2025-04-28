@@ -1,0 +1,7 @@
+name: clean_architecture_hooks
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  mason: ^0.1.1
