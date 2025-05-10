@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:mason_demo/core/failure.dart';
+import '../../../../core/failure.dart';
 import '../entities/{{feature_name.snakeCase()}}_entity.dart';
 import '../repository/{{feature_name.snakeCase()}}_repository.dart';
 
