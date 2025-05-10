@@ -1,7 +1,7 @@
-import 'package:mason_demo/features/{{{feature_name.snakeCase()}}}/domain/repository/{{{feature_name.snakeCase()}}}_repository.dart';
 import 'package:dartz/dartz.dart';
 import 'package:mason_demo/core/failure.dart';
-import 'package:mason_demo/features/{{{feature_name.snakeCase()}}}/domain/entities/{{{feature_name.snakeCase()}}}_entity.dart';
+import '../entities/{{feature_name.snakeCase()}}_entity.dart';
+import '../repository/{{feature_name.snakeCase()}}_repository.dart';
 
 //Todo: define usecases (like below)
 

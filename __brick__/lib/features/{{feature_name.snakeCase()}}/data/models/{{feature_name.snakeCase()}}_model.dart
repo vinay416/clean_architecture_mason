@@ -1,4 +1,4 @@
-import 'package:mason_demo/features/{{{feature_name.snakeCase()}}}/domain/entities/{{{feature_name.snakeCase()}}}_entity.dart';
+import '../../domain/entities/{{{feature_name.snakeCase()}}}_entity.dart';
 
 class {{feature_name.pascalCase()}}Model extends {{feature_name.pascalCase()}}Entity{
   {{feature_name.pascalCase()}}Model();
